@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><cars>
+   <supercars company="Honda">
+      <carname type="formula one">Honda 50</carname>
+      <carname type="sports">Honda Shine</carname>
+   </supercars>
+   
+   
+</cars>

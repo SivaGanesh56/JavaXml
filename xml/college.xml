@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<college>
+    <staff id="101">
+        <name>siva</name>
+        <age>20</age>
+        <salary>10L</salary>
+    </staff>
+    <staff id="102">
+        <name>Ganesh</name>
+        <age>18</age>
+        <salary>9L</salary>
+    </staff>
+</college>
