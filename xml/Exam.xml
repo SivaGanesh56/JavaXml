@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<exam id="131">
+    <answers>
+        <marks>10</marks>
+        <postedBy>siva</postedBy>
+        <solution>Java is Powerful Langauge</solution>
+    </answers>
+    <answers>
+        <marks>10</marks>
+        <postedBy>Ganesh</postedBy>
+        <solution>AI is evolution in  modern era</solution>
+    </answers>
+    <question>IT</question>
+</exam>
